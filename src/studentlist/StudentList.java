@@ -18,6 +18,7 @@ public class StudentList {
         Student[] studentList = new Student[3];//change size before running
         Student s1 = new Student();
         s1.setName("Fagun Vankawala");
+        s1.setName("Jasleen");
         Student s2 = new Student();
         s2.setName("Palak Shah");
         Student s3 = new Student();
